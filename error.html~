@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>404!</title>
+  </head>
+  <body>
+    <h1>Well, this is embarassing...</h1>
+    <p>
+      Our website broke. Try pressing F5 a couple times. If this doesn't fix it, yell at our developer at <a href="mailto:john@openbookrack.com">john@openbookrack.com</a>.
+    </p>
+  </body>
+</html>
